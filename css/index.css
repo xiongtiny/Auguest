@@ -1,0 +1,25 @@
+        *{padding: 0;margin:0;font-family: "微软雅黑"}
+        a{text-decoration:none;}
+        #header,#middle,#footer{width: 100%;overflow: height}
+        .display-ib{display: inline-block;}
+        .margin-auto{margin:0 auto;width: 1200px}
+        .banner{width: 100%;position: relative;}
+        .float-none{display: inline-block;list-style-type: none;width: 100%}
+        .float-none li{float: left;}
+        .title{text-align: center;font-size: 55px;}
+        .xzwm li{cursor: pointer;}
+        .nav_list a{color: #cecece;font-size: 30px;float: left;width: 199px;text-align: center;height: 92px;margin-top: 8px;border-right: 1px solid #7b7b7b;line-height: 92px}
+        .nav_list a:hover{color: #fff}
+        .xzwm_back1{height: 236px;width: 236px;background:url(http://cxf-img-new.b0.upaiyun.com/jingjia/videozhibo/1.png);margin-right: 32px;margin-left: 32px;}
+        .xzwm_back2{height: 236px;width: 236px;background:url(http://cxf-img-new.b0.upaiyun.com/jingjia/videozhibo/2.png);margin-right: 32px;margin-left: 32px;}
+        .xzwm_back3{height: 236px;width: 236px;background:url(http://cxf-img-new.b0.upaiyun.com/jingjia/videozhibo/3.png);margin-right: 32px;margin-left: 32px;}
+        .xzwm_back4{height: 236px;width: 236px;background:url(http://cxf-img-new.b0.upaiyun.com/jingjia/videozhibo/4.png);margin-right: 32px;margin-left: 32px;}
+        .xzwm_back5{height: 236px;width: 236px;background:url(http://cxf-img-new.b0.upaiyun.com/jingjia/videozhibo/5.png);margin-right: 32px;margin-left: 32px;}
+        .xzwm_back6{height: 236px;width: 236px;background:url(http://cxf-img-new.b0.upaiyun.com/jingjia/videozhibo/6.png);margin-right: 32px;margin-left: 32px;}
+        .xzwm_back7{height: 236px;width: 236px;background:url(http://cxf-img-new.b0.upaiyun.com/jingjia/videozhibo/7.png);margin-right: 32px;margin-left: 32px;}
+        .xzwm_back8{background:url(http://cxf-img-new.b0.upaiyun.com/jingjia/videozhibo/8.png);}
+        a,.pointer{cursor: pointer;}
+        .lc{border: 0;background: #ff2551;color: #fff;width: 271px;height: 66px;font-size: 38px;margin-top: 511px;}
+        .lc:hover{background: #eb1e48;}
+        .yiwen{font-size: 45px;width: 340px;height:85px;line-height: 85px;border:1px solid #4d4d4d;color: #6b6b6b;background: #fff;margin-top: 1011px}
+        .yiwen:hover{color: #2e2e2e;}
